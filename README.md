@@ -17,5 +17,7 @@ Artist Discovery, is a front end app created using ticketmaster's API, along wit
 
 ## Authors
 
+- Kin Kam Zhao - https://github.com/kamzh88
+- Israel Dembele - https://github.com/israel81boot
 - Eric Max Valdivia - https://github.com/Ericv0801
 
