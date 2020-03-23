@@ -11,9 +11,9 @@ Artist Discovery, is a front end app created using ticketmaster's API, along wit
 2. Select a start date and end date if needed.
 3. Click the search button.
 
-![GitHub Logo](./assets/images/SPORTSTRIVIA.png)
-![GitHub Logo](./assets/images/SPORTSTRIVIA.png)
-![GitHub Logo](./assets/images/SPORTSTRIVIA.png)
+![Search Field](./assets/images/Search.png)
+![Results](./assets/images/Results.png)
+
 
 ## Technologies Used
 
