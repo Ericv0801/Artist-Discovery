@@ -7,9 +7,9 @@ Artist Discovery, is a front end app created using ticketmaster's API, along wit
 
 ## Instructions
 
-1)Enter an artist in the input field provided.
-2)Select a start date and end date if needed.
-3)Click the search button.
+1. Enter an artist in the input field provided.
+2. Select a start date and end date if needed.
+3. Click the search button.
 
 ## Technologies Used
 
